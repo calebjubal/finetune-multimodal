@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Large competition image data (kept out of git; download separately)
+dataset/public/train_images/
+dataset/public/test_images/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
